@@ -5640,6 +5640,32 @@
         "path": "plugins/fair-value-calculator",
         "sha": "b0beec45699971ad264b20ee47d1041ef7961314"
       }
+    },
+    {
+      "name": "taskhold",
+      "description": "For developers who hand work to Claude Code, Cursor or Codex, Taskhold is a hosted task list that you and your agents share. The plugin adds the Taskhold remote MCP server and agent skills: Claude Code picks up the next task, splits it into steps, reports progress on a live board and blocks with a question when it needs you. Connects over OAuth with no account first and no API key to paste; the first tool call returns a link to start a 7-day trial. Paid plan only ($12/month).",
+      "version": "1.2.2",
+      "author": {
+        "name": "Great Work LLC",
+        "url": "https://taskhold.com/?ref=buildwithclaude"
+      },
+      "homepage": "https://taskhold.com/?ref=buildwithclaude",
+      "repository": "https://github.com/gettaskhold/taskhold-plugin",
+      "license": "MIT",
+      "keywords": [
+        "tasks",
+        "todo",
+        "project-management",
+        "coding-agents",
+        "mcp",
+        "progress"
+      ],
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "gettaskhold/taskhold-plugin",
+        "sha": "55bb21cf2140b29663d96851e3dabf0e57eb59f1"
+      }
     }
   ]
 }
